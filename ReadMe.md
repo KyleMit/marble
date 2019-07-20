@@ -4,7 +4,7 @@
 
 A digital recreation of this photo:
 
-![marlbe](https://i.imgur.com/18LXRal.png)
+![marlbe](https://i.imgur.com/18LXRall.png)
 
 
 ## Resources
